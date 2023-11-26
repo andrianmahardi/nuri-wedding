@@ -18,7 +18,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(img/pexels-photo-118033.webp);
+  background-image: url(img/peganngan.jpg);
   background-size: cover;
   background-position: center;
   z-index: -1;
@@ -28,6 +28,7 @@ body {
 .hero {
   position: relative;
   min-height: 100vh;
+  background-image: url(img/peganngan.jpg);
 }
 
 .hero h1,
